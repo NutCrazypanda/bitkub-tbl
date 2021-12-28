@@ -38,7 +38,7 @@ Cryptocurrency Trailing Buy Stop for BitKub exchange.
 
 (สามารถสร้างไฟล์ config คู่เงินหลายๆ ไฟล์ แล้วสั่งทำงานหลายจอได้)
 
-![image](https://user-images.githubusercontent.com/56244402/147463383-edf70ab1-23ac-4bb6-9f64-6f047b32e866.png)
+![image](https://user-images.githubusercontent.com/56244402/147553141-150f8f0b-5a1a-406a-a8b7-54da25c872f4.png)
 
 ** วิธีหยุดการทำงานของโปรแกรมให้กด Ctrl + C
 
