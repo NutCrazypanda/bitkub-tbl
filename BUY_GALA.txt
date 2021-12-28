@@ -1,0 +1,3 @@
+symbol=THB_GALA
+gridsize=0.5
+buyamount=1000
